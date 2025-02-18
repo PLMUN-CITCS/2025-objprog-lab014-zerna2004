@@ -1,0 +1,2 @@
+Welcome to our program!
+The average is: 25.0
